@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "authtut/models"
+	_ "authtutorial/models"
 	_ "authtutorial/routers"
 	"fmt"
 	"github.com/astaxie/beego"
